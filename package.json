@@ -1,0 +1,16 @@
+{
+  "name": "perf-bot",
+  "version": "0.0.0",
+  "description": "Analyses performance of HAR formatted data",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "author": "Ralph Saunders",
+  "license": "BSD",
+  "devDependencies": {
+    "body-parser": "^1.12.4",
+    "express": "^4.12.3",
+    "multer": "^0.1.8"
+  }
+}
