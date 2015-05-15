@@ -1,13 +1,13 @@
 {
   "name": "perf-bot",
   "version": "0.0.0",
-  "description": "Analyses performance of HAR formatted data",
+  "description": "Cool stuff with HAR",
   "main": "index.js",
   "scripts": {
     "test": "test"
   },
   "author": "Ralph Saunders",
-  "license": "BSD",
+  "license": "BSD-3-Clause",
   "devDependencies": {
     "body-parser": "^1.12.4",
     "express": "^4.12.3",
